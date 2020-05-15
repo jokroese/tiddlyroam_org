@@ -190,6 +190,7 @@ The combination leads to what Roam calls ‘networked thought’. This is best e
 <p class="contact-subtitle">Community</p>
 <h2 class="contact-title">tiddlyroam:<br>built by people like you and me.</h2>
 <p class="contact-text"><b>tiddlyroam</b> is an open source project. Our community supports new users, request new features and fix any cracks.</p>
+<iframe src="https://ghbtns.com/github-btn.html?user=joekroese&repo=tiddlyroam&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="Star joekroese/tiddlyroam on GitHub"></iframe>
 <div class="learn-more-btn-section">
 <a class="nav-link learn-more-btn" href="https://github.com/joekroese/tiddlyroam">Meet the community</a>
 </div>
