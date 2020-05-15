@@ -16,7 +16,7 @@ layout: default
 <div class="col-lg-4 offset-lg-1 header-title-section">
 <p class="header-subtitle">Wiki, meet notebook</p>
 <h1 class="header-title">Your open source external brain</h1>
-<p class="header-title-text"><b>tiddlyroam</b> is a notetaking app that let's you focus on your ideas. It'll join them up for you.</p>
+<p class="header-title-text"><b>tiddlyroam</b> is a notetaking app for collecting and connecting your thoughts.</p>
 <div class="learn-more-btn-section">
 <a class="nav-link learn-more-btn" href="#about">Learn More</a>
 </div>
@@ -145,6 +145,7 @@ The combination leads to what Roam calls ‘networked thought’. This is best e
 <div class="blog-title-section">
 <p class="blog-subtitle">Level up your external brain</p>
 <h2 class="blog-title">Featured tutorials</h2>
+<h3 class="blog-subtitle">Coming soon</h3>
 </div>
 <div class="blog-posts-section">
 <div class="col-lg-4 col-md-8 col-xs-10 blog-post-card-container">
@@ -190,7 +191,9 @@ The combination leads to what Roam calls ‘networked thought’. This is best e
 <p class="contact-subtitle">Community</p>
 <h2 class="contact-title">tiddlyroam:<br>built by people like you and me.</h2>
 <p class="contact-text"><b>tiddlyroam</b> is an open source project. Our community supports new users, request new features and fix any cracks.</p>
+<div class="learn-more-btn-section">
 <iframe src="https://ghbtns.com/github-btn.html?user=joekroese&repo=tiddlyroam&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="Star joekroese/tiddlyroam on GitHub"></iframe>
+</div>
 <div class="learn-more-btn-section">
 <a class="nav-link learn-more-btn" href="https://github.com/joekroese/tiddlyroam">Meet the community</a>
 </div>
