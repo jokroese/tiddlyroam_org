@@ -174,7 +174,7 @@ The combination leads to what Roam calls ‘networked thought’. This is best e
 <img src="assets/images/head-repair.png">
 </div>
 <h3 class="blog-post-title">Extending tiddlyroam</h3>
-<p class="blog-post-subtitle">Got the basics down? Learn how to use tiddlyroam on mobile.</p>
+<p class="blog-post-subtitle">Got the basics? Set up tiddlyroam on mobile.</p>
 <a class="blog-post-link" href="#extending-tiddlyroam">Read More</a>
 </div>
 </div>
