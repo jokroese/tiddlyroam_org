@@ -1,0 +1,23 @@
+- title: Networked
+  description: Reveals the connections between your notes
+  image: strategy-1.png
+
+- title: Simple
+  description: tiddlyroam is a single html file
+  image: simple.png
+
+- title: Own your data
+  description: No cloud, complete privacy
+  image: privacy.png
+
+- title: Open source
+  description: Free in every way, forever
+  image: transparent.png
+
+- title: Customisable
+  description: Built on a highly customisable framework
+  image: strategy-4.png
+
+- title: Crossplatform
+  description: Use on Mac, Windows, Linux or even mobile
+  image: crossplatform.png
