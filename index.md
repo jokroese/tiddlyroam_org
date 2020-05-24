@@ -97,7 +97,7 @@ The combination leads to what Roam calls ‘networked thought’. This is best e
 <h2 class="services-title">Quickstart</h2>
 <p class="services-text">
 <ol>
-<li>Download <a href = "https://github.com/joekroese/tiddlyroam/releases/download/v1.0/tiddlyroam.html">tiddlyroam.html</a></li>
+<li>Download <a href = "https://github.com/joekroese/tiddlyroam/releases/download/v1.1/tiddlyroam.html">tiddlyroam.html</a></li>
 <li>Download <a href = "https://github.com/Jermolene/TiddlyDesktop/releases">TiddlyDesktop</a></li>
 <li>Open tiddlyroam.html in TiddlyDesktop</li>
 </ol>
