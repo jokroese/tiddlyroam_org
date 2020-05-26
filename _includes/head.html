@@ -1,12 +1,15 @@
 <meta charset="UTF-8">
 
-<title>tiddlyroam: your open source external brain</title>
-<meta name="description" content="tiddlyroam is what notebooks should look like: networked, simple and free.">
-<meta name="keywords" content="tiddlyroam, notebook">
-<meta name="author" content="tiddlyroam">
-<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<title>
+{% if page.url != '/' %}
+    {{page.title}} &middot; {{site.name}}
+    {% else %}
+    {{site.name}} &middot; {{site.tagline}}
+{% endif %}
+</title>
 
-<link rel="icon" type="image/png" href="{{"assets/images/favicon.png" | relative_url }}">
+{% feed_meta %}
+{%- seo title=false -%}
 
 <link rel="stylesheet" href= "{{ "assets/css/bootstrap.css" | relative_url }}">
 <link rel="stylesheet" type="text/css" href="{{ "assets/css/style.css" | relative_url }}" />
