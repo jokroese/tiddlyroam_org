@@ -1,9 +1,9 @@
 name: tiddlyroam
-url: http://tiddlyroam.org
+url: https://tiddlyroam.org
 baseurl: ""
 title: tiddlyroam
 tagline: your open source external brain
-description: "tiddlyroam is a free, open source alternative to Roam. It is a notetaking app that works the way your brain does: networked, open source and free." 
+description: "tiddlyroam is a free, open source alternative to Roam. It is a notetaking app that works the way your brain does: networked, personal and infinitely customisable." 
 logo: assets/images/favicon.png
 
 plugins:
