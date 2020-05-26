@@ -2,3 +2,8 @@ name: Tiddlyroam
 url: http://tiddlyroam.org
 baseurl: ""
 description: "tiddlyroam is a free, open source notetaking app that works the way your brain does: networked, open source and free." 
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
